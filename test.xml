@@ -1,18 +1,18 @@
 
 <ADS>
-<AD>
-<ID>1234</ID>
-<DATE>01/01/2025</DATE>
-<TITLE>Título do produto 1 - Master</TITLE>
-<DESCRIPTION>Descrição do produto 1 - Master</DESCRIPTION>
-<MAKE>Marca do produto 1 - Master</MAKE>
-<YEAR>Ano do modelo 1 - Master</YEAR>
-<FABRIC_YEAR>Ano de fabricação 1 - Master</FABRIC_YEAR>
-<CONDITION>USADO/NOVO 1 - Master</CONDITION>
-<PRICE>10000.00</PRICE>
-<IMAGES>
-<IMAGE_URL>https://cdn.revendamais.com.br/FC/121/6557661_0_O_49fb36bd64.jpeg</IMAGE_URL>
-</IMAGES>
-<LAST_UPDATE>2024-12-16 09:28:32+00</LAST_UPDATE>
-</AD>
+  <AD>
+    <ID>1234</ID>
+    <DATE>01/01/2025</DATE>
+    <TITLE>Título do produto 1 - Master</TITLE>
+    <DESCRIPTION>Descrição do produto 1 - Master</DESCRIPTION>
+    <MAKE>Marca do produto 1 - Master</MAKE>
+    <YEAR>Ano do modelo 1 - Master</YEAR>
+    <FABRIC_YEAR>Ano de fabricação 1 - Master</FABRIC_YEAR>
+    <CONDITION>USADO/NOVO 1 - Master</CONDITION>
+    <PRICE>10000.00</PRICE>
+    <IMAGES>
+      <IMAGE_URL>https://cdn.revendamais.com.br/FC/121/6557661_0_O_49fb36bd64.jpeg</IMAGE_URL>
+    </IMAGES>
+    <LAST_UPDATE>2024-12-16 09:28:32+00</LAST_UPDATE>
+  </AD>
 </ADS>
