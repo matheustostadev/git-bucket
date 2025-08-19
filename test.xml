@@ -1,33 +1,53 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <ADS>
-  <AD>
-    <ID>1234</ID>
-    <DATE>01/01/2025</DATE>
-    <TITLE>Título do produto 1 - Master</TITLE>
-    <DESCRIPTION>Descrição do produto 1 - Master</DESCRIPTION>
-    <MAKE>Marca do produto 1 - Master</MAKE>
-    <YEAR>Ano do modelo 1 - Master</YEAR>
-    <FABRIC_YEAR>Ano de fabricação 1 - Master</FABRIC_YEAR>
-    <CONDITION>USADO/NOVO 1 - Master</CONDITION>
-    <PRICE>10000.00</PRICE>
-    <IMAGES>
-      <IMAGE_URL>https://cdn.revendamais.com.br/FC/121/6557661_0_O_49fb36bd64.jpeg</IMAGE_URL>
-    </IMAGES>
-    <LAST_UPDATE>2024-12-16 09:28:32+00</LAST_UPDATE>
-  </AD>
-  <AD>
-    <ID>12345</ID>
-    <DATE>01/01/2025</DATE>
-    <TITLE>Título do produto 2 - Master</TITLE>
-    <DESCRIPTION>Descrição do produto 2 - Master</DESCRIPTION>
-    <MAKE>Marca do produto 2 - Master</MAKE>
-    <YEAR>Ano do modelo 2 - Master</YEAR>
-    <FABRIC_YEAR>Ano de fabricação 2 - Master</FABRIC_YEAR>
-    <CONDITION>USADO/NOVO 2 - Master</CONDITION>
-    <PRICE>20000.00</PRICE>
-    <IMAGES>
-      <IMAGE_URL>https://cdn.revendamais.com.br/FC/121/6557661_0_O_49fb36bd64.jpeg</IMAGE_URL>
-    </IMAGES>
-    <LAST_UPDATE>2024-12-16 09:28:32+00</LAST_UPDATE>
-  </AD>
+    <AD>
+        <ID>12345</ID>
+        <DATE>2025-08-19</DATE>
+        <TITLE>Honda Civic EXL 2.0 Automático</TITLE>
+        <CATEGORY>Carros</CATEGORY>
+        <DESCRIPTION>Veículo em ótimo estado, único dono, revisões em dia.</DESCRIPTION>
+        <ACCESSORIES>Ar-condicionado, Direção hidráulica, Vidros elétricos</ACCESSORIES>
+        <MAKE>Honda</MAKE>
+        <MODEL>Civic</MODEL>
+        <YEAR>2020</YEAR>
+        <FABRIC_YEAR>2019</FABRIC_YEAR>
+        <CONDITION>Seminovo</CONDITION>
+        <MILEAGE>35000</MILEAGE>
+        <FUEL>Flex</FUEL>
+        <GEAR>Automático</GEAR>
+        <MOTOR>2.0</MOTOR>
+        <PLATE>ABC1D23</PLATE>
+        <CHASSI>9BWZZZ377VT004251</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Prata</COLOR>
+        <PRICE>95000.00</PRICE>
+        <SELLER>Auto Veículos LTDA</SELLER>
+        <PHONE>(11) 98765-4321</PHONE>
+        <CNPJ>12.345.678/0001-99</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>SP</LOCATION_STATE>
+        <LOCATION_CITY>São Paulo</LOCATION_CITY>
+        <ZIP_CODE>01001-000</ZIP_CODE>
+        <NEIGHBORHOOD>Centro</NEIGHBORHOOD>
+        <STREET>Av. Paulista</STREET>
+        <NUMBER>1000</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/civic1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/civic2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/civic.mp4</VIDEO>
+        <FIPE>Honda Civic EXL 2.0 2020</FIPE>
+        <VALOR_FIPE>98000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Sim</DESTAQUE>
+        <LAST_UPDATE>2025-08-18T10:30:00</LAST_UPDATE>
+        <PROMOTION_PRICE>92000.00</PROMOTION_PRICE>
+        <BODY_TYPE>Sedã</BODY_TYPE>
+        <HP>155</HP>
+        <BASE_MODEL>Civic EXL</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/civic1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/civic2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
 </ADS>
