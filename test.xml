@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ADS>
+    <!-- 1 -->
     <AD>
         <ID>12345</ID>
         <DATE>2025-08-19</DATE>
@@ -48,6 +49,266 @@
         <IMAGES_LARGE>
             <IMAGE_URL_LARGE>https://site.com/imagens/civic1_large.jpg</IMAGE_URL_LARGE>
             <IMAGE_URL_LARGE>https://site.com/imagens/civic2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
+
+    <!-- 2 -->
+    <AD>
+        <ID>67890</ID>
+        <DATE>2025-08-15</DATE>
+        <TITLE>Toyota Corolla Altis 2.0 CVT</TITLE>
+        <CATEGORY>Carros</CATEGORY>
+        <DESCRIPTION>Carro de família, baixo consumo, sempre revisado em concessionária.</DESCRIPTION>
+        <ACCESSORIES>Ar-condicionado digital, Airbag, Multimídia</ACCESSORIES>
+        <MAKE>Toyota</MAKE>
+        <MODEL>Corolla</MODEL>
+        <YEAR>2021</YEAR>
+        <FABRIC_YEAR>2020</FABRIC_YEAR>
+        <CONDITION>Seminovo</CONDITION>
+        <MILEAGE>22000</MILEAGE>
+        <FUEL>Flex</FUEL>
+        <GEAR>Automático</GEAR>
+        <MOTOR>2.0</MOTOR>
+        <PLATE>DEF4G56</PLATE>
+        <CHASSI>8BWZZZ377VT003456</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Branco</COLOR>
+        <PRICE>115000.00</PRICE>
+        <SELLER>Concessionária Toyota Paulista</SELLER>
+        <PHONE>(11) 99876-5432</PHONE>
+        <CNPJ>98.765.432/0001-10</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>SP</LOCATION_STATE>
+        <LOCATION_CITY>São Paulo</LOCATION_CITY>
+        <ZIP_CODE>01310-200</ZIP_CODE>
+        <NEIGHBORHOOD>Bela Vista</NEIGHBORHOOD>
+        <STREET>Rua Augusta</STREET>
+        <NUMBER>1500</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/corolla1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/corolla2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/corolla.mp4</VIDEO>
+        <FIPE>Toyota Corolla Altis 2.0 2021</FIPE>
+        <VALOR_FIPE>118000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Não</DESTAQUE>
+        <LAST_UPDATE>2025-08-17T09:45:00</LAST_UPDATE>
+        <PROMOTION_PRICE>113000.00</PROMOTION_PRICE>
+        <BODY_TYPE>Sedã</BODY_TYPE>
+        <HP>177</HP>
+        <BASE_MODEL>Corolla Altis</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/corolla1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/corolla2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
+
+    <!-- 3 -->
+    <AD>
+        <ID>54321</ID>
+        <DATE>2025-08-12</DATE>
+        <TITLE>Chevrolet Onix LT 1.0 Turbo</TITLE>
+        <CATEGORY>Carros</CATEGORY>
+        <DESCRIPTION>Compacto econômico, ótimo para cidade, baixa quilometragem.</DESCRIPTION>
+        <ACCESSORIES>Multimídia, Sensor de estacionamento, Airbag</ACCESSORIES>
+        <MAKE>Chevrolet</MAKE>
+        <MODEL>Onix</MODEL>
+        <YEAR>2022</YEAR>
+        <FABRIC_YEAR>2021</FABRIC_YEAR>
+        <CONDITION>Seminovo</CONDITION>
+        <MILEAGE>12000</MILEAGE>
+        <FUEL>Flex</FUEL>
+        <GEAR>Manual</GEAR>
+        <MOTOR>1.0 Turbo</MOTOR>
+        <PLATE>GHI7J89</PLATE>
+        <CHASSI>9BGZZZ377VT002147</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Azul</COLOR>
+        <PRICE>75000.00</PRICE>
+        <SELLER>Auto Mais Revenda</SELLER>
+        <PHONE>(21) 98888-7777</PHONE>
+        <CNPJ>11.111.111/0001-22</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>RJ</LOCATION_STATE>
+        <LOCATION_CITY>Rio de Janeiro</LOCATION_CITY>
+        <ZIP_CODE>20040-000</ZIP_CODE>
+        <NEIGHBORHOOD>Centro</NEIGHBORHOOD>
+        <STREET>Avenida Rio Branco</STREET>
+        <NUMBER>200</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/onix1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/onix2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/onix.mp4</VIDEO>
+        <FIPE>Chevrolet Onix LT 1.0 Turbo 2022</FIPE>
+        <VALOR_FIPE>77000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Sim</DESTAQUE>
+        <LAST_UPDATE>2025-08-16T11:00:00</LAST_UPDATE>
+        <PROMOTION_PRICE>74000.00</PROMOTION_PRICE>
+        <BODY_TYPE>Hatch</BODY_TYPE>
+        <HP>116</HP>
+        <BASE_MODEL>Onix LT</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/onix1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/onix2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
+
+    <!-- 4 -->
+    <AD>
+        <ID>98765</ID>
+        <DATE>2025-08-10</DATE>
+        <TITLE>Volkswagen T-Cross Comfortline 1.4 TSI</TITLE>
+        <CATEGORY>SUV</CATEGORY>
+        <DESCRIPTION>SUV moderno, espaçoso e potente, excelente para família.</DESCRIPTION>
+        <ACCESSORIES>Teto solar, Câmera de ré, Controle de estabilidade</ACCESSORIES>
+        <MAKE>Volkswagen</MAKE>
+        <MODEL>T-Cross</MODEL>
+        <YEAR>2021</YEAR>
+        <FABRIC_YEAR>2021</FABRIC_YEAR>
+        <CONDITION>Seminovo</CONDITION>
+        <MILEAGE>28000</MILEAGE>
+        <FUEL>Flex</FUEL>
+        <GEAR>Automático</GEAR>
+        <MOTOR>1.4 TSI</MOTOR>
+        <PLATE>JKL2M34</PLATE>
+        <CHASSI>WVWZZZ377VT006789</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Preto</COLOR>
+        <PRICE>125000.00</PRICE>
+        <SELLER>VW Premium Motors</SELLER>
+        <PHONE>(41) 97777-5555</PHONE>
+        <CNPJ>22.222.222/0001-33</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>PR</LOCATION_STATE>
+        <LOCATION_CITY>Curitiba</LOCATION_CITY>
+        <ZIP_CODE>80010-000</ZIP_CODE>
+        <NEIGHBORHOOD>Centro</NEIGHBORHOOD>
+        <STREET>Rua XV de Novembro</STREET>
+        <NUMBER>120</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/tcross1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/tcross2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/tcross.mp4</VIDEO>
+        <FIPE>VW T-Cross Comfortline 1.4 TSI 2021</FIPE>
+        <VALOR_FIPE>127000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Não</DESTAQUE>
+        <LAST_UPDATE>2025-08-14T15:00:00</LAST_UPDATE>
+        <PROMOTION_PRICE>123000.00</PROMOTION_PRICE>
+        <BODY_TYPE>SUV</BODY_TYPE>
+        <HP>150</HP>
+        <BASE_MODEL>T-Cross Comfortline</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/tcross1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/tcross2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
+
+    <!-- 5 -->
+    <AD>
+        <ID>24680</ID>
+        <DATE>2025-08-08</DATE>
+        <TITLE>Jeep Compass Longitude 2.0 Diesel</TITLE>
+        <CATEGORY>SUV</CATEGORY>
+        <DESCRIPTION>Veículo robusto, ideal para estrada e off-road, todas revisões feitas.</DESCRIPTION>
+        <ACCESSORIES>4x4, Multimídia, Bancos de couro</ACCESSORIES>
+        <MAKE>Jeep</MAKE>
+        <MODEL>Compass</MODEL>
+        <YEAR>2020</YEAR>
+        <FABRIC_YEAR>2020</FABRIC_YEAR>
+        <CONDITION>Seminovo</CONDITION>
+        <MILEAGE>45000</MILEAGE>
+        <FUEL>Diesel</FUEL>
+        <GEAR>Automático</GEAR>
+        <MOTOR>2.0 Turbo Diesel</MOTOR>
+        <PLATE>NOP5Q67</PLATE>
+        <CHASSI>1C4ZZZ377VT009876</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Vermelho</COLOR>
+        <PRICE>165000.00</PRICE>
+        <SELLER>Jeep Off-Road</SELLER>
+        <PHONE>(31) 96666-4444</PHONE>
+        <CNPJ>33.333.333/0001-44</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>MG</LOCATION_STATE>
+        <LOCATION_CITY>Belo Horizonte</LOCATION_CITY>
+        <ZIP_CODE>30110-000</ZIP_CODE>
+        <NEIGHBORHOOD>Funcionários</NEIGHBORHOOD>
+        <STREET>Avenida Afonso Pena</STREET>
+        <NUMBER>900</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/compass1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/compass2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/compass.mp4</VIDEO>
+        <FIPE>Jeep Compass Longitude 2.0 Diesel 2020</FIPE>
+        <VALOR_FIPE>167000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Sim</DESTAQUE>
+        <LAST_UPDATE>2025-08-13T14:20:00</LAST_UPDATE>
+        <PROMOTION_PRICE>162000.00</PROMOTION_PRICE>
+        <BODY_TYPE>SUV</BODY_TYPE>
+        <HP>170</HP>
+        <BASE_MODEL>Compass Longitude</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/compass1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/compass2_large.jpg</IMAGE_URL_LARGE>
+        </IMAGES_LARGE>
+    </AD>
+
+    <!-- 6 -->
+    <AD>
+        <ID>11223</ID>
+        <DATE>2025-08-05</DATE>
+        <TITLE>Ford Ranger XLT 3.2 4x4</TITLE>
+        <CATEGORY>Picape</CATEGORY>
+        <DESCRIPTION>Picape potente, ótima para trabalho e lazer, equipada com acessórios.</DESCRIPTION>
+        <ACCESSORIES>4x4, Santo Antônio, Multimídia, Airbag</ACCESSORIES>
+        <MAKE>Ford</MAKE>
+        <MODEL>Ranger</MODEL>
+        <YEAR>2019</YEAR>
+        <FABRIC_YEAR>2018</FABRIC_YEAR>
+        <CONDITION>Usado</CONDITION>
+        <MILEAGE>70000</MILEAGE>
+        <FUEL>Diesel</FUEL>
+        <GEAR>Automático</GEAR>
+        <MOTOR>3.2 Turbo Diesel</MOTOR>
+        <PLATE>RST8U90</PLATE>
+        <CHASSI>3FRZZZ377VT005432</CHASSI>
+        <DOORS>4</DOORS>
+        <COLOR>Prata</COLOR>
+        <PRICE>185000.00</PRICE>
+        <SELLER>Ford Caminhões e Picapes</SELLER>
+        <PHONE>(51) 95555-3333</PHONE>
+        <CNPJ>44.444.444/0001-55</CNPJ>
+        <LOCATION_COUNTRY>Brasil</LOCATION_COUNTRY>
+        <LOCATION_STATE>RS</LOCATION_STATE>
+        <LOCATION_CITY>Porto Alegre</LOCATION_CITY>
+        <ZIP_CODE>90010-000</ZIP_CODE>
+        <NEIGHBORHOOD>Moinhos de Vento</NEIGHBORHOOD>
+        <STREET>Avenida Goethe</STREET>
+        <NUMBER>250</NUMBER>
+        <IMAGES>
+            <IMAGE_URL>https://site.com/imagens/ranger1.jpg</IMAGE_URL>
+            <IMAGE_URL>https://site.com/imagens/ranger2.jpg</IMAGE_URL>
+        </IMAGES>
+        <VIDEO>https://site.com/videos/ranger.mp4</VIDEO>
+        <FIPE>Ford Ranger XLT 3.2 2019</FIPE>
+        <VALOR_FIPE>188000.00</VALOR_FIPE>
+        <PERICIA>Aprovado</PERICIA>
+        <DESTAQUE>Não</DESTAQUE>
+        <LAST_UPDATE>2025-08-11T08:40:00</LAST_UPDATE>
+        <PROMOTION_PRICE>183000.00</PROMOTION_PRICE>
+        <BODY_TYPE>Picape</BODY_TYPE>
+        <HP>200</HP>
+        <BASE_MODEL>Ranger XLT</BASE_MODEL>
+        <IMAGES_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/ranger1_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://site.com/imagens/ranger2_large.jpg</IMAGE_URL_LARGE>
         </IMAGES_LARGE>
     </AD>
 </ADS>
