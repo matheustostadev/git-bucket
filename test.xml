@@ -33,8 +33,8 @@
         <STREET>Av. Paulista</STREET>
         <NUMBER>1000</NUMBER>
         <IMAGES>
-            <IMAGE_URL>https://site.com/imagens/civic1.jpg</IMAGE_URL>
-            <IMAGE_URL>https://site.com/imagens/civic2.jpg</IMAGE_URL>
+            <IMAGE_URL>https://upload.wikimedia.org/wikipedia/commons/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg</IMAGE_URL>
+            <IMAGE_URL>https://upload.wikimedia.org/wikipedia/commons/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg</IMAGE_URL>
         </IMAGES>
         <VIDEO>https://site.com/videos/civic.mp4</VIDEO>
         <FIPE>Honda Civic EXL 2.0 2020</FIPE>
@@ -47,8 +47,8 @@
         <HP>155</HP>
         <BASE_MODEL>Civic EXL</BASE_MODEL>
         <IMAGES_LARGE>
-            <IMAGE_URL_LARGE>https://site.com/imagens/civic1_large.jpg</IMAGE_URL_LARGE>
-            <IMAGE_URL_LARGE>https://site.com/imagens/civic2_large.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://upload.wikimedia.org/wikipedia/commons/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg</IMAGE_URL_LARGE>
+            <IMAGE_URL_LARGE>https://upload.wikimedia.org/wikipedia/commons/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg</IMAGE_URL_LARGE>
         </IMAGES_LARGE>
     </AD>
 
